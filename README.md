@@ -21,7 +21,7 @@ Le travail doit être planifer sur trois 4 tâches
 
 [Etudes de cas d'utilisation ](https://docs.google.com/presentation/d/1Kj1zIeCkezH4vWu3TSzxm6y9yfw327gVejKMDbsU2NM/edit?usp=sharing)
 
-[ Etude de cas - scénario]()
+[ Etude de cas - scénario](https://docs.google.com/presentation/d/1VxIw-vgqYc8ACbQeLgXA-hFi0e7PHvHvwE_sfVrVtls/edit?usp=sharing)
 
 [etude de cas - diagramme de classe]()
 
